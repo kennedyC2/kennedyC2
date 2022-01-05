@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kennedy C.
 - 👀 I’m interested in Web Development, UI design, API Development, Artificial Intelligence.
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on anything project
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me kennedychidi55@gmail.com 
 
 <!---
